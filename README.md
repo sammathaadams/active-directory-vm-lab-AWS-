@@ -5,6 +5,7 @@
 This guide provides step-by-step instructions to deploy and configure Active Directory Domain Services (AD DS) on a Windows Server virtual machine (VM) hosted in Amazon Web Services (AWS).
 ---
 ### Watch Me Build This Lab Here!
+   - https://www.loom.com/share/aa01a75959944293b2a1c8c78bdca20a
 
 ---
 
