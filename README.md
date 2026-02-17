@@ -1,4 +1,3 @@
-# active-directory-vm-lab
 # Active Directory Setup and Configuration on AWS Windows Server
 ---
 ## Overview
